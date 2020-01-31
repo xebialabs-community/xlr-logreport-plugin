@@ -1,5 +1,8 @@
 # XL Release Log Report Plugin
 
+[![Travis (.org)](https://img.shields.io/travis/xebialabs-community/xlr-logreport-plugin)](https://travis-ci.org/xebialabs-community/xlr-logreport-plugin)
+[![GitHub](https://img.shields.io/github/license/xebialabs-community/xlr-logreport-plugin)](https://opensource.org/licenses/MIT)
+[![GitHub All Releases](https://img.shields.io/github/downloads/xebialabs-community/xlr-logreport-plugin/total)](https://github.com/xebialabs-community/xlr-logreport-plugin/releases/latest)
 
 ## Preface
 This document describes the functionality provided by the 'xlr-logreport-plugin'
